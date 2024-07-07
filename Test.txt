@@ -1,2 +1,5 @@
 Test file
 editing line from Dev branch
+
+Editing for get merge example
+
