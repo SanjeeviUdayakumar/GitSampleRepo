@@ -1,1 +1,2 @@
 Test file
+Editing for get merge example
